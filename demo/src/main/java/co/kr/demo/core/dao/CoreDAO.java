@@ -16,7 +16,7 @@ public class CoreDAO {
 	}
 
 	public void service() {
-		String item = "R";
+		String item = "RS";
 
 		switch(item) {
 			case "R":
