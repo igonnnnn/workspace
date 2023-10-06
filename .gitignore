@@ -1,3 +1,4 @@
+.metadata
 .metadata/.lock
 .metadata/.log
 .metadata/defender.check
@@ -293,3 +294,4 @@ demo/.project
 .metadata/.plugins/org.eclipse.core.resources/.root/8.tree
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.tm.terminal.control.prefs
+.metadata/.plugins/org.eclipse.core.resources/8.snap
